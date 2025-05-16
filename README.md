@@ -14,8 +14,8 @@
 
 | Area                  | Tools & Technologies                                      |
 |-----------------------|-----------------------------------------------------------|
-| **Data Analysis**      | Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook  |
-| **Machine Learning**   | Scikit-learn · Feature Engineering · Model Evaluation     |
+| **Data Analysis**      | Pandas · NumPy · Matplotlib · Seaborn · Power BI · JupyterNotebook  |
+| **Machine Learning**   | Scikit-learn · Feature Engineering · TnesorFlow · Pytorch · Keras · Model Evaluation · NLP and text processing · Model optimization    |
 | **Big Data Frameworks**| Apache Hadoop · Apache Spark · Dask                        |
 | **Databases**          | MongoDB (NoSQL)                                           |
 | **Programming**        | Python · R                                                |
@@ -33,7 +33,7 @@
 - Analysing and predicting different stock price using different ML models (https://www.youtube.com/watch?v=9ZIct3y86DQ&list=PLWck0U2ism2C7YxYqBFBuChwow7t34Yz4&index=12)
 ** All project are in my repo 😄
 
-### 🌱 Upcoming project###
+### 🌱 Upcoming project
 - lovely AI agent
 - Exploring more about scalable data processing pipelines leveraging Apache Spark and Hadoop ecosystems.
 - A dream project aimed at encouraging people to engage more in the real world than in the virtual one 
