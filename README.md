@@ -15,7 +15,7 @@
 | Area                  | Tools & Technologies                                      |
 |-----------------------|-----------------------------------------------------------|
 | **Data Analysis**      | Pandas · NumPy · Matplotlib · Seaborn · Power BI · JupyterNotebook  |
-| **Machine Learning**   | Scikit-learn · Feature Engineering · TnesorFlow · Pytorch · Keras · Model Evaluation · NLP and text processing · Model optimization    |
+| **Machine Learning**   | Scikit-learn · Feature Engineering · TensorFlow · Pytorch · Keras · Model Evaluation · NLP and text processing · Model optimization    |
 | **Big Data Frameworks**| Apache Hadoop · Apache Spark · Dask                        |
 | **Databases**          | MongoDB (NoSQL)                                           |
 | **Programming**        | Python · R                                                |
