@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <h1>👋 Hello, I'm [Roshan Rai]</h1>
+  <h1>👋 Hello, I'm Roshan Rai</h1>
   <p><strong>Data Scientist | Big Data Engineer | Python & R Developer</strong></p>
   <p>Passionate about turning data into actionable insights with powerful tools and scalable architectures.</p>
 </div>
