@@ -8,7 +8,7 @@
   <p>Passionate about turning data into actionable insights with powerful tools and scalable architectures.</p>
 </div>
 
----
+--
 
 ### 🛠️ Core Expertise & Skills
 
